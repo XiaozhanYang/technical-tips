@@ -1,3 +1,3 @@
 # Technical Tips
-A repository host the Excel file with technical tips from every day work.
+A repository hosting the Excel file with technical tips from every day work.
 
